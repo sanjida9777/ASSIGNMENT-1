@@ -1,0 +1,19 @@
+.{
+	margin: 0px;
+	padding: 0px;
+	font-family: candara;
+}
+body{
+	margin: 100px ;
+}
+
+h3{
+	font-family: cursive;
+}
+.box img{
+	height: 70px;
+	width: 100px;
+	transform: translate(-204px,88px);
+	display: none;
+
+}
